@@ -1,6 +1,6 @@
 <h1> Calories Prediction using Regression Models </h1>
 
-<img src = '/images/7.png' height = 250 width = 800 >
+<img src = '/images/7.png' height = 250 width = 500 >
 
 <hr>
 
