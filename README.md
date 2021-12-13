@@ -1,5 +1,7 @@
 <h1> Calories Prediction using Regression Models </h1>
 
+<img src = '/images/7.png'>
+
 <hr>
 
 ### Prerequisites
